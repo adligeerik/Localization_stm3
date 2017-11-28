@@ -1,0 +1,9 @@
+dwt_stm32_delay.h:29:22:DWT_Delay_us.constprop	16	static
+main.c:242:6:SystemClock_Config	88	static
+main.c:547:6:time_log	16	static
+main.c:568:6:send_to_VHF	24	static
+main.c:622:11:parse_nmea	20	static
+main.c:672:10:CrcCalculate	0	static
+main.c:597:6:send_to_stm3	16	static
+main.c:117:6:main	112	static
+main.c:697:6:_Error_Handler	0	static
